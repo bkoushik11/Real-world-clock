@@ -18,6 +18,8 @@ A simple, real-time digital clock built using **HTML** and **CSS**. This project
 - HTML5
 - CSS3
 
+
 ## 📸 Screenshot
 
 ![Real-Time Clock](./assets/clock-screenshot.png)
+
