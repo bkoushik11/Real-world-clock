@@ -9,7 +9,7 @@ A simple, real-time digital clock built using **HTML** and **CSS**. This project
 - Displays current hours, minutes, and seconds
 - 100% responsive and works across all screen sizes
 - Clean and modern UI design
-- Built using pure HTML and CSS (can be extended with JavaScript for dynamic time updates)
+- Built using HTML and CSS extended with JavaScript for dynamic time updates.
 
 ---
 
